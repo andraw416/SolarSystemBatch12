@@ -8,6 +8,11 @@ public class Main {
         xfac.planet="4";
         xfac.sun="6";
         xfac.star="1000";
-        
+
+
+        FeatureSun xfactor = new FeatureSun();
+        xfactor.color="puruple";
+        xfactor.heat="123123";
+        xfactor.radius="huge";
     }
 }
