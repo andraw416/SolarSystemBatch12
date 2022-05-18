@@ -19,5 +19,11 @@ public class Main {
         stars.color = "blue";
         stars.radius = "Large";
         stars.size = "12km";
+
+        Planet1Feature mars = new Planet1Feature();
+        mars.color = "blue";
+        mars.name="MARS";
+        mars.size="HUGEEE";
+
     }
 }
