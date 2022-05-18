@@ -16,7 +16,7 @@ public class Main {
         xfactor.radius="huge";
 
         FeatureStars stars = new FeatureStars();
-        stars.color = blue;
+        stars.color = "blue";
         stars.radius = "Large";
         stars.size = "12km";
     }
