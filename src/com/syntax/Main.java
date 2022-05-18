@@ -14,5 +14,10 @@ public class Main {
         xfactor.color="puruple";
         xfactor.heat="123123";
         xfactor.radius="huge";
+
+        FeatureStars stars = new FeatureStars();
+        stars.color = blue;
+        stars.radius = "Large";
+        stars.size = "12km";
     }
 }
