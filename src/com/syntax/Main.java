@@ -20,11 +20,19 @@ public class Main {
         stars.radius = "Large";
         stars.size = "12km";
 
+
         //adding planet 2 features
         Planet2 planet2=new Planet2();
         planet2.color="orange";
         planet2.size="2020020202 km squared";
         planet2.name="Marsianusth";
         
+
+        Planet1Feature mars = new Planet1Feature();
+        mars.color = "blue";
+        mars.name="MARS";
+        mars.size="HUGEEE";
+
+
     }
 }
